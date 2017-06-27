@@ -1,0 +1,23 @@
+{
+  "name": "javascript-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyledavid/javascript-calculator.git"
+  },
+  "author": "Kyle Steinle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyledavid/javascript-calculator/issues"
+  },
+  "homepage": "https://github.com/kyledavid/javascript-calculator#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}

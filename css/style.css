@@ -1,0 +1,36 @@
+main {
+	padding-top: 50px;
+}
+
+#calculator {
+	width: 400px;
+	border-radius: 6px;
+	border: 1px solid #444;
+	margin: auto;
+}
+
+#calc-display {
+	height: 20px;
+	border-bottom: 1px solid #444;
+}
+
+#calc-buttons button {
+	background-color: blue;
+	font-size: 18px;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	width: 95px;
+	float: left;
+	border: none;
+	margin: 1px;
+}
+
+.row {
+	clear: both;
+}
+
+.clearfix:after {
+	content: " ";
+	display: block;
+	clear: both;
+}
